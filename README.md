@@ -1,0 +1,2 @@
+# noktaapp
+Nokta app denemeleri..
